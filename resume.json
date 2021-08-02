@@ -1,0 +1,82 @@
+{
+	"basics": {
+		"name": "Ayush Kumar Mohanta",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1033@iiitkota.ac.in",
+		"phone": "7978222391",
+		"website": "-",
+		"summary": "---Tell Something about yourself ---",
+		"location": {
+			"address": "C/O Dr B K Singh, Kislaya, BootyMore",
+			"postalCode": "834009",
+			"city": "Ranchi",
+			"countryCode": "India",
+			"region": "Jharkhand"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "AyushMohanta",
+				"url": "https://github.com/AyushMohanta"
+			},
+			{
+				"network": "linkedin",
+				"username": "ayush-kumar-mohanta-909763197",
+				"url": "https://www.linkedin.com/in/ayush-kumar-mohanta-909763197/"
+			},
+			{
+				"network": "Instagram",
+				"username": "ayushmohantaa",
+				"url": "https://instagram.com/ayushkmohantaa"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java", "Python", "Blender", "Davinci Resolve", ""]
+	}],
+	"interests": [{
+		"name": "Music, Bodybuilding",
+		"keywords": ["Guitar", "Powerlifting"]
+	}],
+	"references": []
+}
